@@ -6,7 +6,16 @@ P.Eng. (PEO) · Certified Energy Manager (CEM) · Certified Measurement & Verifi
 
 I work on HVAC optimization, building automation and decarbonization across the TELUS national portfolio — commercial buildings, data centres and telecom central offices — with IPMVP measurement and verification so projected savings and delivered savings end up being the same number. My research covers building energy modelling, techno-economic analysis and low-carbon HVAC.
 
-**Recognition:** EM Honours 2026 — Energy Manager Canada · BGIS Techno-Economist 2026 · BGIS Furious Scribbler 2026
+## Recognition
+
+- **EM Honours 2026** — Energy Manager Canada ([feature](https://www.energy-manager.ca/em-honours-2026-reza-babaei-bgis/))
+- **T&E Lab Techno-Economist 2026** — Turbulence & Energy Laboratory, University of Windsor
+- **T&E Lab Furious Scribbler 2026** — Turbulence & Energy Laboratory, University of Windsor
+
+<p>
+<img src="https://rez-babaei.github.io/reza-babaei-te-lab-techno-economist-2026.jpg" alt="Reza Babaei, T&amp;E Lab Techno-Economist 2026 award, University of Windsor" width="220">
+<img src="https://rez-babaei.github.io/reza-babaei-te-lab-furious-scribbler-2026.jpg" alt="Reza Babaei, T&amp;E Lab Furious Scribbler 2026 award, University of Windsor" width="220">
+</p>
 
 ## Find me online
 
